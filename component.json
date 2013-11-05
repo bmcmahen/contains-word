@@ -1,7 +1,7 @@
 {
-  "name": "contains-word",
-  "repo": "bmcmahen/contains-word",
-  "description": "determine if a string contains a word.",
+  "name": "string-contains",
+  "repo": "bmcmahen/string-contains",
+  "description": "determine if a string contains a substring.",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},

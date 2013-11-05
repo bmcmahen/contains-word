@@ -1,5 +1,5 @@
 
-# contains-word
+# string-contains
 
   determine if a string contains a word.
 
@@ -7,7 +7,7 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install bmcmahen/contains-word
+    $ component install bmcmahen/string-contains
 
 ## API
 
